@@ -1,0 +1,11 @@
+# Local env files (Secrets)
+.env
+.env.local
+.env.*.local
+
+# Python backend bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
